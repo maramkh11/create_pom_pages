@@ -1,0 +1,10 @@
+[project]
+name= "create_pom_pages"
+description = ""
+dynamic = ["version"]
+requires-python = "~=3.10"
+
+dependencies = [
+    "beautifulsoup4",
+    "pandas"
+]
