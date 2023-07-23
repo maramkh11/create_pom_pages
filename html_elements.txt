@@ -1,0 +1,174 @@
+<div id="leftmenuinnerinner">
+<!--  <a href='javascript:void(0)' onclick='close_menu()' class='w3-button w3-hide-large w3-large w3-display-topright' style='right:16px;padding:3px 12px;font-weight:bold;'>&times;</a>-->
+<h2 class="left"><span class="left_h2">Java</span> Tutorial</h2>
+<a target="_top" href="default.asp">Java HOME</a>
+<a target="_top" href="java_intro.asp">Java Intro</a>
+<a target="_top" href="java_getstarted.asp">Java Get Started</a>
+<a target="_top" href="java_syntax.asp">Java Syntax</a>
+<a target="_top" href="java_output.asp">Java Output</a>
+<div class="tut_overview">
+<a target="_top" href="java_output.asp">Print Text</a>
+<a target="_top" href="java_output_numbers.asp">Print Numbers</a>
+</div>
+<a target="_top" href="java_comments.asp">Java Comments</a>
+<a target="_top" href="java_variables.asp">Java Variables</a>
+<div class="tut_overview">
+<a target="_top" href="java_variables.asp">Variables</a>
+<a target="_top" href="java_variables_print.asp">Print Variables</a>
+<a target="_top" href="java_variables_multiple.asp">Declare Multiple Variables</a>
+<a target="_top" href="java_variables_identifiers.asp">Identifiers</a>
+</div>
+<a target="_top" href="java_data_types.asp">Java Data Types</a>
+<div class="tut_overview">
+<a target="_top" href="java_data_types.asp">Data Types</a>
+<a target="_top" href="java_data_types_numbers.asp">Numbers</a>
+<a target="_top" href="java_data_types_boolean.asp">Booleans</a>
+<a target="_top" href="java_data_types_characters.asp">Characters</a>
+<a target="_top" href="java_data_types_non-prim.asp">Non-primitive Types</a>
+
+</div>
+<a target="_top" href="java_type_casting.asp">Java Type Casting</a>
+<a target="_top" href="java_operators.asp">Java Operators</a>
+<a target="_top" href="java_strings.asp">Java Strings</a>
+<div class="tut_overview">
+<a target="_top" href="java_strings.asp">Strings</a>
+<a target="_top" href="java_strings_concat.asp">Concatenation</a>
+<a target="_top" href="java_strings_numbers.asp">Numbers and Strings</a>
+<a target="_top" href="java_strings_specchars.asp">Special Characters</a>
+</div>
+<a target="_top" href="java_math.asp">Java Math</a>
+<a target="_top" href="java_booleans.asp">Java Booleans</a>
+<a target="_top" href="java_conditions.asp">Java If...Else</a>
+<div class="tut_overview">
+<a target="_top" href="java_conditions.asp">If...Else</a>
+<a target="_top" href="java_conditions_shorthand.asp">Short Hand If...Else</a>
+</div>
+<a target="_top" href="java_switch.asp">Java Switch</a>
+<a target="_top" href="java_while_loop.asp">Java While Loop</a>
+<a target="_top" href="java_for_loop.asp">Java For Loop</a>
+<div class="tut_overview">
+<a target="_top" href="java_for_loop.asp">For Loop</a>
+<a target="_top" href="java_foreach_loop.asp">For-Each Loop</a>
+</div>
+<a target="_top" href="java_break.asp">Java Break/Continue</a>
+<a target="_top" href="java_arrays.asp">Java Arrays</a>
+<div class="tut_overview">
+<a target="_top" href="java_arrays.asp">Arrays</a>
+<a target="_top" href="java_arrays_loop.asp">Loop Through an Array</a>
+<a target="_top" href="java_arrays_multi.asp">Multidimensional Arrays</a>
+</div>
+<br>
+
+<h2>Java Methods</h2>
+<a target="_top" href="java_methods.asp">Java Methods</a>
+<a target="_top" href="java_methods_param.asp">Java Method Parameters</a>
+<a target="_top" href="java_methods_overloading.asp">Java Method Overloading</a>
+<a target="_top" href="java_scope.asp">Java Scope</a>
+<a target="_top" href="java_recursion.asp">Java Recursion</a>
+<br>
+
+<h2>Java Classes</h2>
+<a target="_top" href="java_oop.asp">Java OOP</a>
+<a target="_top" href="java_classes.asp" class="active">Java Classes/Objects</a>
+<a target="_top" href="java_class_attributes.asp">Java Class Attributes</a>
+<a target="_top" href="java_class_methods.asp">Java Class Methods</a>
+<a target="_top" href="java_constructors.asp">Java Constructors</a>
+<a target="_top" href="java_modifiers.asp">Java Modifiers</a>
+<a target="_top" href="java_encapsulation.asp">Java Encapsulation</a>
+<a target="_top" href="java_packages.asp">Java Packages / API</a>
+<a target="_top" href="java_inheritance.asp">Java Inheritance</a>
+<a target="_top" href="java_polymorphism.asp">Java Polymorphism</a>
+<a target="_top" href="java_inner_classes.asp">Java Inner Classes</a>
+<a target="_top" href="java_abstract.asp">Java Abstraction</a>
+<a target="_top" href="java_interface.asp">Java Interface</a>
+<a target="_top" href="java_enums.asp">Java Enums</a>
+<a target="_top" href="java_user_input.asp">Java User Input</a>
+<a target="_top" href="java_date.asp">Java Date</a>
+<a target="_top" href="java_arraylist.asp">Java ArrayList</a>
+<a target="_top" href="java_linkedlist.asp">Java LinkedList</a>
+<a target="_top" href="java_hashmap.asp">Java HashMap</a>
+<a target="_top" href="java_hashset.asp">Java HashSet</a>
+<a target="_top" href="java_iterator.asp">Java Iterator</a>
+<a target="_top" href="java_wrapper_classes.asp">Java Wrapper Classes</a>
+<a target="_top" href="java_try_catch.asp">Java Exceptions</a>
+<a target="_top" href="java_regex.asp">Java RegEx</a>
+<a target="_top" href="java_threads.asp">Java Threads</a>
+<a target="_top" href="java_lambda.asp">Java Lambda</a>
+<br>
+
+<h2>Java File Handling</h2>
+<a target="_top" href="java_files.asp">Java Files</a>
+<a target="_top" href="java_files_create.asp">Java Create/Write Files</a>
+<a target="_top" href="java_files_read.asp">Java Read Files</a>
+<a target="_top" href="java_files_delete.asp">Java Delete Files</a>
+<br>
+
+<h2>Java How To</h2>
+<a target="_top" href="java_howto_add_two_numbers.asp">Add Two Numbers</a>
+<a target="_top" href="java_howto_count_words.asp">Count Words</a>
+<a target="_top" href="java_howto_reverse_string.asp">Reverse a String</a>
+<a target="_top" href="java_howto_sum_of_array_elements.asp">Sum of Array Elements</a>
+<a target="_top" href="java_howto_area_of_rectangle.asp">Area of Rectangle</a>
+<a target="_top" href="java_howto_even_or_odd.asp">Even or Odd Number</a>
+<br>
+
+<h2>Java Reference</h2>
+<a target="_top" href="java_ref_keywords.asp">Java Keywords</a>
+<div class="ref_overview" style="margin-left:10px;">
+  <a target="_top" href="ref_keyword_abstract.asp">abstract</a>
+  <a target="_top" href="ref_keyword_boolean.asp">boolean</a>
+  <a target="_top" href="ref_keyword_break.asp">break</a>
+  <a target="_top" href="ref_keyword_byte.asp">byte</a>
+  <a target="_top" href="ref_keyword_case.asp">case</a>
+  <a target="_top" href="ref_keyword_catch.asp">catch</a>
+  <a target="_top" href="ref_keyword_char.asp">char</a>
+  <a target="_top" href="ref_keyword_class.asp">class</a>
+  <a target="_top" href="ref_keyword_continue.asp">continue</a>
+  <a target="_top" href="ref_keyword_default.asp">default</a>
+  <a target="_top" href="ref_keyword_do.asp">do</a>
+  <a target="_top" href="ref_keyword_double.asp">double</a>
+  <a target="_top" href="ref_keyword_else.asp">else</a>
+  <a target="_top" href="ref_keyword_enum.asp">enum</a>
+  <a target="_top" href="ref_keyword_extends.asp">extends</a>
+  <a target="_top" href="ref_keyword_final.asp">final</a>
+  <a target="_top" href="ref_keyword_finally.asp">finally</a>
+  <a target="_top" href="ref_keyword_float.asp">float</a>
+  <a target="_top" href="ref_keyword_for.asp">for</a>
+  <a target="_top" href="ref_keyword_if.asp">if</a>
+  <a target="_top" href="ref_keyword_implements.asp">implements</a>
+  <a target="_top" href="ref_keyword_import.asp">import</a>
+  <a target="_top" href="ref_keyword_instanceof.asp">instanceof</a>
+  <a target="_top" href="ref_keyword_int.asp">int</a>
+  <a target="_top" href="ref_keyword_interface.asp">interface</a>
+  <a target="_top" href="ref_keyword_long.asp">long</a>
+  <a target="_top" href="ref_keyword_new.asp">new</a>
+  <a target="_top" href="ref_keyword_package.asp">package</a>
+  <a target="_top" href="ref_keyword_private.asp">private</a>
+  <a target="_top" href="ref_keyword_protected.asp">protected</a>
+  <a target="_top" href="ref_keyword_public.asp">public</a>
+  <a target="_top" href="ref_keyword_return.asp">return</a>
+  <a target="_top" href="ref_keyword_short.asp">short</a>
+  <a target="_top" href="ref_keyword_static.asp">static</a>
+  <a target="_top" href="ref_keyword_super.asp">super</a>
+  <a target="_top" href="ref_keyword_switch.asp">switch</a>
+  <a target="_top" href="ref_keyword_this.asp">this</a>
+  <a target="_top" href="ref_keyword_throw.asp">throw</a>
+  <a target="_top" href="ref_keyword_throws.asp">throws</a>
+  <a target="_top" href="ref_keyword_try.asp">try</a>
+  <a target="_top" href="ref_keyword_void.asp">void</a>
+  <a target="_top" href="ref_keyword_while.asp">while</a>
+</div>
+<a target="_top" href="java_ref_string.asp">Java String Methods</a>
+<a target="_top" href="java_ref_math.asp">Java Math Methods</a>
+<br>
+
+<h2>Java Examples</h2>
+<a target="_top" href="java_examples.asp">Java Examples</a>
+<a target="_top" href="java_compiler.asp">Java Compiler</a>
+<a target="_top" href="java_exercises.asp">Java Exercises</a>
+<a target="_top" href="java_quiz.asp">Java Quiz</a>
+<a target="_top" href="java_exam.asp">Java Certificate</a>
+<br>
+
+      <br><br>
+    </div>

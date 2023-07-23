@@ -1,6 +1,6 @@
 
-from abstract_page import AbstractPage
 from common_names import CommonNames, Suffix
+from pagefactory.abstract_page import AbstractPage
 
 
 class JavaPage(AbstractPage):

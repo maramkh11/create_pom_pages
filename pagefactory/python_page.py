@@ -26,10 +26,9 @@ class PythonPage(AbstractPage):
         extends=str(extends or "")
         content="""class {}{}:
 
-
-        def __init__(self):
-            pass
-        
+    def __init__(self):
+        pass
+    
         """
         if len(extends)>0:
             extends=f"({extends})"

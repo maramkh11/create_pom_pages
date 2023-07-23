@@ -38,8 +38,8 @@ def create_pages():
     page_object=PageFactory().build_page(language=language)
     pages_data_list=get_csv_data()
     directories_names=get_directories_name(pages_data_list)
-    remove_all_directories(directories_names)
-    create_all_directories(directories_names)
+    # remove_all_directories(directories_names)
+    # create_all_directories(directories_names)
     for page_data in pages_data_list:
         create_module_file(page_object,page_data)
 
