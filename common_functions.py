@@ -55,7 +55,10 @@ def get_directories_name(pages_data_list:list):
     packages_list=[]
     for page in pages_data_list:
         packages_list.append(page["package"])
-    return list(set(packages_list))    
+    if  len(packages_list)>0:   
+        return list(set(packages_list)) 
+    else:
+        return os.getenv("Default_Package_Name")   
 
 def remove_directory(directory):
     try:
